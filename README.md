@@ -92,14 +92,11 @@
 
 <br/>
 
+
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Mac-XK&color=blueviolet&style=flat-square&label=访客数" />
-
-<br/><br/>
-
-*如果我的项目对你有帮助，欢迎 ⭐ Star 支持一下*
+💬 *如果我的项目对你有帮助，欢迎 ⭐ Star 支持一下*
 
 </div>
